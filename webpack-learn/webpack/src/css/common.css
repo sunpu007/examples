@@ -1,0 +1,15 @@
+body {
+  color: green;
+}
+#one {
+  width: 200px;
+  height: 200px;
+  background: url('../images/404_cloud.png');
+  background-size: 100%;
+}
+#two {
+  width: 200px;
+  height: 200px;
+  background: url('../images/timder-icon.png');
+  background-size: 100%;
+}
